@@ -46,7 +46,7 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Favourite101&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&theme=dark&hide_border=false" /> 
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Favour&theme=dark)](https://git.io/streak-stats)
 </td>
 
 <td width="50%" align="center">
