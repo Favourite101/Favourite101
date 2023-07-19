@@ -105,7 +105,7 @@
 <div align="center">
   
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Favour&label=Profile%20Views&pretty=true" />
+  <img src="https://visitcount.itsvg.in/api?id=Favourite101&label=Profile%20Views&pretty=false" />
 </a>
   
 </div>
