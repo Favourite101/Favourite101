@@ -32,7 +32,7 @@
 
 - 🤖 I'm interested in Machine Learning/Artificial Intelligence.
 
-- 📫 Feel free to reach me out **ofavourite001@gmail.com**
+- 📫 Feel free to reach out to am at **ofavourite001@gmail.com**
 <!--Intro end-->
 
 
@@ -46,7 +46,7 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Favourite101&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img src="github-readme-streak-stats.herokuapp.com?user=Favourite101">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Favourite101">
 </td>
 
 <td width="50%" align="center">
