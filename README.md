@@ -32,7 +32,7 @@
 
 - 🤖 I'm interested in Machine Learning/Artificial Intelligence.
 
-- 📫 Feel free to reach out to am at **ofavourite001@gmail.com**
+- 📫 Feel free to reach out to me at **ofavourite001@gmail.com**
 <!--Intro end-->
 
 
