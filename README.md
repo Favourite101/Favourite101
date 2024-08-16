@@ -28,7 +28,7 @@
 <!--Intro start-->
 - 📚 I’m currently a **Software Engineering** student at **Babcock University**
 
-- 💻 I’m currently learning **Python and it's frameworks**
+- 💻 I’m a Software Engineer specialized in **Backend Development**
 
 - 🤖 I'm interested in Machine Learning/Artificial Intelligence.
 
