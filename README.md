@@ -26,7 +26,6 @@
 
 
 <!--Intro start-->
-- 📚 I’m currently a **Software Engineering** student at **Babcock University**
 
 - 💻 I’m a Software Engineer specialized in **Backend Development**
 
@@ -80,7 +79,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,c,cpp,css,discord,figma,github,html,java,js,linux,mysql,py,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=java,springboot,react,angular,mysql,postgresql,mongodb,redis,git,github,html,bootstrap,css,js,linux,py,vscode,intellij&perline=14" />
   </a>
 </p>
 
