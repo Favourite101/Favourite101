@@ -1,58 +1,40 @@
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h1 align="center">Hi, I'm Favour 👋</h1>
+<p align="center">Backend Software Engineer — Java/Spring Boot · Python/FastAPI · C#/.NET</p>
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi👋, I'm Favour</h1></summary>
-  </ul>
-</div>
+<p align="center">
+  <a href="https://favourtunmibi.dev">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/favourtunmibi/">LinkedIn</a> ·
+  <a href="mailto:ofavourite001@gmail.com">Email</a>
+</p>
 
-<!--- snake -->
+---
+
+### About
+
+- 🚀 Founding Engineer at **CSG Development**, building **Resov** — a grant-management platform (Spring Boot, PostgreSQL, event-driven architecture)
+- 🩺 Built a hybrid **CNN-Vision Transformer** for retinal disease detection — 0.8869 AUC-ROC, **Best HealthTech Award** winner
+- 🎓 Graduating Best Software Engineering Student, Babcock University (2026)
+- 🤖 Interested in applied ML/AI, particularly in healthcare
+
+### Stack
+
+![Java](https://img.shields.io/badge/-Java-000000?style=flat-square&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23%20%2F%20.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+
+### Contribution Activity
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Favourite101/Favourite101/output/github-contribution-grid-snake.svg"
-       alt="snake" />
+  <img src="https://raw.githubusercontent.com/Favourite101/Favourite101/output/github-contribution-grid-snake.svg" alt="snake" />
 </div>
 
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Welcome to my GitHub profile</h2></summary>
-  </ul>
-</div>
+---
 
-<!--Intro start-->
-- 💻 Backend Software Engineer — Java/Spring Boot, Python/FastAPI, C#/.NET
-- 🚀 Currently Founding Engineer at CSG Development, building Resov, a grant-management platform
-- 🩺 Built a hybrid CNN-Vision Transformer for retinal disease detection — 0.8869 AUC-ROC, Best HealthTech Award winner
-- 🤖 Interested in Machine Learning / Artificial Intelligence
-- 📫 Reach me at **ofavourite001@gmail.com**
-<!--Intro end-->
-
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-
-<!--tech stack icons-->
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,django,cs,dotnet,react,nextjs,mysql,postgresql,mongodb,redis,docker,git,github,linux,azure,gcp&perline=14" />
-</p>
-
-<!-- Connect with me -->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
-</div>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/favourtunmibi/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://twitter.com/Fav_fantasy_" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
-<a href="https://www.instagram.com/fav.fantasy/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a> 
-</p>
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center"><sub>📫 ofavourite001@gmail.com</sub></p>
