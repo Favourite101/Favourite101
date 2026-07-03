@@ -13,7 +13,7 @@
 
 - 🚀 Founding Engineer at **CSG Development**, building **Resov** — a grant-management platform (Spring Boot, PostgreSQL, event-driven architecture)
 - 🩺 Built a hybrid **CNN-Vision Transformer** for retinal disease detection — 0.8869 AUC-ROC, **Best HealthTech Award** winner
-- 🎓 Graduating Best Software Engineering Student, Babcock University (2026)
+- 🎓 Graduated Best Software Engineering Student, Babcock University (2026)
 - 🤖 Interested in applied ML/AI, particularly in healthcare
 
 ### Stack
@@ -32,7 +32,8 @@
 ### Contribution Activity
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Favourite101/Favourite101/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img  src="https://github.com/Thxssio/github-contribution-grid-snake.svg/blob/main/github-contribution-grid-snake.svg"
+       alt="snake" /></a>
 </div>
 
 ---
