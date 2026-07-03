@@ -1,4 +1,3 @@
-
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -9,13 +8,11 @@
   </ul>
 </div>
 
-
-<!--- snake -->
+<!--- snake (fixed: raw content URL, not blob link) -->
 <div align="center">
-  <img  src="https://github.com/Thxssio/github-contribution-grid-snake.svg/blob/main/github-contribution-grid-snake.svg"
-       alt="snake" /></a>
+  <img src="https://raw.githubusercontent.com/Favourite101/Favourite101/output/github-contribution-grid-snake.svg"
+       alt="snake" />
 </div>
-
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
@@ -24,14 +21,12 @@
   </ul>
 </div>
 
-
 <!--Intro start-->
-
-- 💻 I’m a Software Engineer specialized in **Backend Development**
-
-- 🤖 I'm interested in Machine Learning/Artificial Intelligence.
-
-- 📫 Feel free to reach out to me at **ofavourite001@gmail.com**
+- 💻 Backend Software Engineer — Java/Spring Boot, Python/FastAPI, C#/.NET
+- 🚀 Currently Founding Engineer at CSG Development, building Resov, a grant-management platform
+- 🩺 Built a hybrid CNN-Vision Transformer for retinal disease detection — 0.8869 AUC-ROC, Best HealthTech Award winner
+- 🤖 Interested in Machine Learning / Artificial Intelligence
+- 📫 Reach me at **ofavourite001@gmail.com**
 <!--Intro end-->
 
 <!--- trophy (start) -->
@@ -40,48 +35,37 @@
       <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Favourite101&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
-<!--- trophy (start) -->
 
-
-</p>        
-<!--- stats (end) -->
-
-
-<!--h1 without bottom border-->
+<!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
   </ul>
 </div>
-<!--tech stack icons-->
+
+<!--tech stack icons (updated to reflect current stack)-->
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=java,spring,react,angular,django,mysql,postgresql,mongodb,redis,docker,postman,git,github,linux,bash,idea,azure&perline=14" />
+    <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,django,cs,dotnet,react,nextjs,mysql,postgresql,mongodb,redis,docker,git,github,linux,azure,gcp&perline=14" />
 </p>
 
-
 <!-- Connect with me -->
-<!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
   </ul>
 </div>
 
-<!--icons and links-->
 <p align="center">
 <a href="https://www.linkedin.com/in/favourtunmibi/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 <a href="https://twitter.com/Fav_fantasy_" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
 <a href="https://www.instagram.com/fav.fantasy/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a> 
 </p>
 
-
 <!--profile visit count-->
 <div align="center">
-  
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Favourite101&label=Profile%20Views&pretty=false" />
 </a>
-  
 </div>
 
 <!--horizontal divider(gradiant)-->
